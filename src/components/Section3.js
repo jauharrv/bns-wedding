@@ -55,28 +55,28 @@ const Section3 = () => {
           </h3>
           <p className="font-semibold mt-8">{`Assalamu'alaikum Warrahmatullahi Wabarrakatuh`}</p>
           <p className="mt-2 text-sm">
-            Dengan memohon Rahmat dan Ridho Allah SWT, kami bermaksud menyelenggarakan akad
-            pernikahan putra putri kami
+            Dengan memohon Rahmat dan Ridha Allah SWT, kami mengundang bapak/ibu/saudara/i
+            untuk hadir pada pernikahan
           </p>
         </div>
 
         <div className="relative z-20">
           <div className="text-center mt-8" data-aos="fade-right">
             <Image
-              src="/images/candra.jpg"
-              alt="candra"
+              src="/images/balqis.jpg"
+              alt="balqis"
               className="h-40 mx-auto w-40 object-cover rounded-full"
               width={160}
               height={160}
             />
             {/* <img
-              src="/images/candra.jpg"
+              src="/images/balqis.jpg"
               alt="Iyan"
               className="h-40 mx-auto w-40 object-cover rounded-full"
             /> */}
-            <p className="font-bold mt-2">M. Chairil Candra Siyam</p>
-            <p className="text-sm">Putra pertama dari Bapak Watijan</p>
-            <p className="text-sm">dan Ibu Kasmini</p>
+            <p className="font-bold mt-2">Balqis Salitsa Yasmin, S.Pd.</p>
+            <p className="text-sm">Putri dari Ibu. Arni Dyah Retnowati, S.Psi.,M.Si.</p>
+            <p className="text-sm">dan Bapak Tukiyo</p>
 
             {/* <div className="flex items-center justify-center space-x-4 mt-4">
               {linkIyan.map((link, index) => (
@@ -106,13 +106,13 @@ const Section3 = () => {
               height={160}
             />
             {/* <img
-              src="/images/irma.jpg"
-              alt="Isty"
+              src="/images/singgih.jpg"
+              alt="singgih"
               className="h-40 w-40 object-cover mx-auto rounded-full"
             /> */}
-            <p className="font-bold mt-2">Irma Nur Ariyanti</p>
-            <p className="text-sm">Putri kedua dari Bapak Marimin</p>
-            <p className="text-sm">dan Ibu Lestari Ningsih</p>
+            <p className="font-bold mt-2">Singgih Prasetiyo, S.Pd.</p>
+            <p className="text-sm">Putra dari ibu. Marijem</p>
+            <p className="text-sm">dan Alm. Bapak. Samijo</p>
             {/* <div className="flex items-center justify-center space-x-4 mt-4">
               {linkIsty.map((link, index) => (
                 <a key={String(index)} href={link.url} target="_blank" rel="noopener noreferrer">

@@ -33,15 +33,17 @@ const Section5 = () => {
 
   // const mapSrcRedirect = `https://www.google.com/maps/place/Sri+Rahayu+Wedding+and+Meeting+Hall/@-7.6020916,110.8700599,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a17d9455ee427:0x3a4016dbc86591b5!8m2!3d-7.6020969!4d110.8722539?hl=en`;
 
-  const mapSrcRedirect = `https://www.google.com/maps/place/1%C2%B020'12.5%22S+102%C2%B000'15.0%22E/@-1.3368051,102.001981,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9a88f61b89557e6c!8m2!3d-1.3368051!4d102.0041697?hl=id`;
+  // const mapSrcRedirect = `https://www.google.com/maps/place/1%C2%B020'12.5%22S+102%C2%B000'15.0%22E/@-1.3368051,102.001981,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9a88f61b89557e6c!8m2!3d-1.3368051!4d102.0041697?hl=id`;
+
+  const mapSrcRedirect = 'https://www.google.com/maps/place/Gedung+Giri+Wahana/@-7.827763,110.9170799,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a2e3db45758db:0x42f869c9ea7e7cd3!8m2!3d-7.827763!4d110.9192686!16s%2Fg%2F11c20smz25';
 
   const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
   return (
     <section className="bg-purple-50 px-6 text-purple-900 relative overflow-hidden" id="peta">
       <div className="text-center mt-16" data-aos="fade-right">
-        <p className="text-sm font-semibold">Kediaman Mempelai Wanita</p>
+        <p className="text-sm font-semibold">Gedung Giri Wahana</p>
         <p className="text-sm mt-2">
-          Jl. Lawu, Komplek Pasar Unit 8, Ds. Suka maju, Kec. Rimbo Ulu, Kab. Tebo
+          Jl. Jend. Sudirman No. 2, Donoharjo, Wuryorejo, Wonogiri
         </p>
       </div>
 
@@ -73,7 +75,7 @@ const Section5 = () => {
 
       <div className="relative z-10" data-aos="fade-down">
         <h3 className="text-center font-semibold text-2xl text-purple-900 mt-16">
-          05 Februari 2023
+          9 Juli 2023
         </h3>
       </div>
 

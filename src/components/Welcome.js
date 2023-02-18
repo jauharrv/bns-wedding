@@ -106,10 +106,10 @@ export default function Welcome({}) {
                               fontFamily: 'Hendycroft Signature',
                             }}
                           >
-                            Candra {'&'} Irma
+                            Balqis {'&'} Singgih
                           </h1>
 
-                          <p className="text-sm my-4">05 Februari 2023</p>
+                          <p className="text-sm my-4"> 9 Juli 2023</p>
                         </div>
 
                         <div>
@@ -128,7 +128,7 @@ export default function Welcome({}) {
                             }}
                             className="rounded-full px-4 py-2 text-sm border-2 border-white flex items-center space-x-3"
                           >
-                            <span>Open Invitaition</span>
+                            <span>Open Invitation</span>
                             <EnvelopeOpenIcon className="h-4 w-4" />
                           </button>
                         </div>

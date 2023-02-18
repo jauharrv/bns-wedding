@@ -23,10 +23,10 @@ const Section4 = () => {
           <p data-aos="fade-down">Minggu</p>
           <div className="flex justify-center items-center space-x-2 mt-2">
             <p className="font-bold text-5xl" data-aos="fade-right">
-              05
+              9
             </p>
             <div className="text-left" data-aos="fade-left">
-              <p>Februari</p>
+              <p>Juli</p>
               <p>2023</p>
             </div>
           </div>
@@ -35,14 +35,14 @@ const Section4 = () => {
         <div className="mt-8 text-center text-purple-900 relative z-10" data-aos="fade-right">
           <Text className="text-2xl ">Akad Nikah</Text>
           <div className="mt-4 text-lg">
-            <p>08.00 - 10.00 WIB</p>
+            <p>08.00 WIB</p>
             <p>Kediaman Mempelai Wanita</p>
           </div>
         </div>
         <div className="mt-8 text-center text-purple-900 relative z-10" data-aos="fade-left">
           <Text className="text-2xl ">Resepsi</Text>
           <div className="mt-4 text-lg">
-            <p>10.00 WIB - Selesai</p>
+            <p>10.00 WIB</p>
             <p>Kediaman Mempelai Wanita</p>
           </div>
         </div>

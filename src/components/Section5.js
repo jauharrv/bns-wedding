@@ -27,19 +27,12 @@ const Section5 = () => {
   //   referrerpolicy="no-referrer-when-downgrade"
   // ></iframe>;
 
-  // const mapSrc = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.7506074122684!2d110.870065214777!3d-7.602096894518276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a17d9455ee427%3A0x3a4016dbc86591b5!2sGedung%20Sri%20Rahayu%20Bekonang!5e0!3m2!1sid!2sid!4v1664023868861!5m2!1sid!2sid`;
-
-  // const mapSrc = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.732409061164!2d102.00198101475401!3d-1.3368050990250053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9a88f61b89557e6c!2zMcKwMjAnMTIuNSJTIDEwMsKwMDAnMTUuMCJF!5e0!3m2!1sid!2sid!4v1672962876409!5m2!1sid!2sid`;
-
   const mapSrc = 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.641043219727!2d110.9192686!3d-7.827763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a2e3db45758db%3A0x42f869c9ea7e7cd3!2sGedung%20Giri%20Wahana!5e0!3m2!1sid!2sid!4v1676790181131!5m2!1sid!2sid'
-
-  // const mapSrcRedirect = `https://www.google.com/maps/place/Sri+Rahayu+Wedding+and+Meeting+Hall/@-7.6020916,110.8700599,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a17d9455ee427:0x3a4016dbc86591b5!8m2!3d-7.6020969!4d110.8722539?hl=en`;
-
-  // const mapSrcRedirect = `https://www.google.com/maps/place/1%C2%B020'12.5%22S+102%C2%B000'15.0%22E/@-1.3368051,102.001981,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9a88f61b89557e6c!8m2!3d-1.3368051!4d102.0041697?hl=id`;
 
   const mapSrcRedirect = 'https://www.google.com/maps/place/Gedung+Giri+Wahana/@-7.827763,110.9170799,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a2e3db45758db:0x42f869c9ea7e7cd3!8m2!3d-7.827763!4d110.9192686!16s%2Fg%2F11c20smz25';
 
   const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
+  
   return (
     <section className="bg-purple-50 px-6 text-purple-900 relative overflow-hidden" id="peta">
       <div className="text-center mt-16" data-aos="fade-right">

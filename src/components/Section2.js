@@ -22,7 +22,7 @@ const Section2 = () => {
           يَتَفَكَّرُونَ
         </p>
         <p className="mt-4 text-sm font-medium">
-          Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari
+          Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari
           jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya
           diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat
           tanda-tanda bagi kaum yang berfikir.

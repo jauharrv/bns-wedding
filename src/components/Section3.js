@@ -76,7 +76,7 @@ const Section3 = () => {
             /> */}
             <p className="font-bold mt-2">Balqis Salitsa Yasmin, S.Pd.</p>
             <p className="text-sm">Putri dari Ibu. Arni Dyah Retnowati, S.Psi.,M.Si.</p>
-            <p className="text-sm">dan Bapak Tukiyo</p>
+            <p className="text-sm">dan Bapak Tukiyo, S.Pd.</p>
 
             {/* <div className="flex items-center justify-center space-x-4 mt-4">
               {linkIyan.map((link, index) => (

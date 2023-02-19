@@ -14,7 +14,7 @@ const Section9 = () => {
       </div>
       <div className="text-center mt-8 relative z-10">
         <div className="text-xs" data-aos="fade-up">
-          <p>Sebelumnya Mohon maaf kepada Bapak, Ibu, Saudara/i,</p>
+          <p>Sebelumnya mohon maaf kepada Bapak, Ibu, Saudara/i,</p>
           <p className="mt-4">
             Terkait dengan kondisi pandemi Covid-19 yang terjadi saat ini, tanpa mengurangi rasa
             hormat kami, mohon untuk melakukan prosedur kesehatan sesuai dengan protokol kesehatan

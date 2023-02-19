@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Wedding of Candra & Irma 💜</title>
+        <title>Wedding of Balqis & Singgih 💜</title>
       </Head>
       <div className="absolute left-0 right-0 top-0 z-10 flex justify-between">
         <FlowerLeft />

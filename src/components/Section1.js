@@ -43,7 +43,7 @@ const Section1 = () => {
             >
               Me and you, Just us Two.
             </p>
-            <p className="mt-2 text-right text-xs">05.02.2023</p>
+            <p className="mt-2 text-right text-xs">09.07.2023</p>
           </div>
         </div>
         <img

@@ -36,15 +36,13 @@ const Section4 = () => {
           <Text className="text-2xl ">Akad Nikah</Text>
           <div className="mt-4 text-lg">
             <p>08.00 WIB</p>
-            <p>Kediaman Mempelai Wanita</p>
-          </div>
+            </div>
         </div>
         <div className="mt-8 text-center text-purple-900 relative z-10" data-aos="fade-left">
           <Text className="text-2xl ">Resepsi</Text>
           <div className="mt-4 text-lg">
             <p>10.00 WIB</p>
-            <p>Kediaman Mempelai Wanita</p>
-          </div>
+            </div>
         </div>
       </div>
 

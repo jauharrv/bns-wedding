@@ -6,7 +6,7 @@ import InstagramIcon from '~icons/InstagramIcon';
 import YoutubeIcon from '~icons/YoutubeIcon';
 import Shape1 from './Shape1';
 
-const linkIyan = [
+/* const linkIyan = [
   {
     url: 'https://www.facebook.com/',
     icon: <FacebookIcon height="18" />,
@@ -34,7 +34,7 @@ const linkIsty = [
     icon: <YoutubeIcon height="18" />,
   },
 ];
-
+*/
 const Section3 = () => {
   return (
     <section className="relative z-10" id="pengantin">
@@ -71,7 +71,7 @@ const Section3 = () => {
             />
             {/* <img
               src="/images/balqis.jpg"
-              alt="Iyan"
+              alt="Balqis"
               className="h-40 mx-auto w-40 object-cover rounded-full"
             /> */}
             <p className="font-bold mt-2">Balqis Salitsa Yasmin, S.Pd.</p>
@@ -99,15 +99,15 @@ const Section3 = () => {
 
           <div className="text-center" data-aos="fade-left">
             <Image
-              src="/images/irma.jpg"
-              alt="Isty"
+              src="/images/singgih.jpg"
+              alt="Singgih"
               className="h-40 w-40 object-cover mx-auto rounded-full"
               width={160}
               height={160}
             />
             {/* <img
               src="/images/singgih.jpg"
-              alt="singgih"
+              alt="Singgih"
               className="h-40 w-40 object-cover mx-auto rounded-full"
             /> */}
             <p className="font-bold mt-2">Singgih Prasetiyo, S.Pd.</p>

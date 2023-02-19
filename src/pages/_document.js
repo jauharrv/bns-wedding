@@ -24,12 +24,12 @@ export default function Document() {
         />
 
         <meta name="google" content="notranslate" />
-        <meta name="title" content="Wedding of Candra & Irma 💜" />
+        <meta name="title" content="Wedding of Balqis & Singgih 💜" />
         <meta name="description" content="We are getting married 💜" />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://metatags.io/" />
-        <meta property="og:title" content="Wedding of Candra & Irma 💜" />
+        <meta property="og:title" content="Wedding of Balqis & Singgih 💜" />
         <meta property="og:description" content="We are getting married 💜" />
         {/* <meta property="og:image" content="https://ik.imagekit.io/iyansr/3_OjEKW-9Zs.jpg" /> */}
         <meta
@@ -39,7 +39,7 @@ export default function Document() {
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://metatags.io/" />
-        <meta property="twitter:title" content="Wedding of Candra & Irma 💜" />
+        <meta property="twitter:title" content="Wedding of Balqis & Singgih 💜" />
         <meta property="twitter:description" content="We are getting married 💜" />
         <meta
           property="twitter:image"

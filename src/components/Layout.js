@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
     });
   }, []);
 
-  return <div className="max-w-lg mx-auto relative pb-28 bg-purple-50">{children}</div>;
+  return <div className="max-w-lg mx-auto relative pb-28 bg-red-800">{children}</div>;
 };
 
 export default Layout;

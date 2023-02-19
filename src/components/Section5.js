@@ -105,7 +105,7 @@ const Section5 = () => {
         </button>
         </div> */}
 
-      <Shape1
+      {/* <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
         fill="#e8dbf1"
@@ -114,7 +114,7 @@ const Section5 = () => {
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-[0]"
         height="300"
         fill="#e8dbf1"
-      />
+      /> */}
     </section>
   );
 };

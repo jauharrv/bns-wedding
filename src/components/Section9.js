@@ -8,7 +8,7 @@ import Text from './Text';
 
 const Section9 = () => {
   return (
-    <section className="bg-purple-50 px-6 py-8 text-purple-900 relative overflow-hidden z-20 ">
+    <section className="bg-red-800 px-6 py-8 text-amber-500 relative overflow-hidden z-20 ">
       <div className="text-center" data-aos="fade-down">
         <Text className="text-2xl ">Informasi</Text>
       </div>

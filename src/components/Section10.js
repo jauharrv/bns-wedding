@@ -55,7 +55,7 @@ const Section10 = () => {
 
   return (
     <section
-      className="bg-purple-50 px-6 py-8 text-purple-900 relative overflow-hidden z-20 "
+      className="bg-red-800 px-6 py-8 text-amber-500 relative overflow-hidden z-20 "
       id="ucapan"
     >
       <div className="text-center" data-aos="fade-down">
@@ -72,7 +72,7 @@ const Section10 = () => {
                 type="text"
                 name="name"
                 id="name"
-                className="text-xs rounded md appearance-none border border-[#e8dbf1] mt-2"
+                className="text-xs rounded md appearance-none border border-[#f59e0b] mt-2"
               />
             </div>
             <div className="flex flex-col text-left text-xs mt-4">
@@ -82,7 +82,7 @@ const Section10 = () => {
                 onChange={(e) => setMessage(e.target.value)}
                 name="message"
                 id="message"
-                className="rounded text-xs md appearance-none border border-[#e8dbf1] mt-2"
+                className="rounded text-xs md appearance-none border border-[#f59e0b] mt-2"
               />
             </div>
 
@@ -98,7 +98,7 @@ const Section10 = () => {
                     type="radio"
                     name="is_attend"
                     id="is_attend_1"
-                    className="rounded md appearance-none border border-[#e8dbf1] "
+                    className="rounded md appearance-none border border-[#f59e0b] "
                   />
                   <label htmlFor="is_attend_1">Hadir</label>
                 </div>
@@ -109,7 +109,7 @@ const Section10 = () => {
                     type="radio"
                     name="is_attend"
                     id="is_attend_2"
-                    className="rounded md appearance-none border border-[#e8dbf1]"
+                    className="rounded md appearance-none border border-[#f59e0b]"
                   />
                   <label htmlFor="is_attend_2">Tidak Hadir</label>
                 </div>
@@ -149,7 +149,7 @@ const Section10 = () => {
         {messageList.map((msg, index) => (
           <div className="bg-white p-4 rounded-lg my-4" key={String(index)}>
             <div className="flex space-x-2">
-              <div className="h-10 w-10 rounded-full bg-[#e8dbf1] flex items-center justify-center">
+              <div className="h-10 w-10 rounded-full bg-[#f59e0b] flex items-center justify-center">
                 <Text className="text-xs font-bold">{msg.name?.charAt(0)?.toUpperCase()}</Text>
               </div>
 

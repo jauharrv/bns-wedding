@@ -16,7 +16,7 @@ const Section1 = () => {
                   fontFamily: 'Sacramento',
                 }}
               >
-                Candra
+                Balqis
               </h1>
             </div>
             <h1
@@ -33,7 +33,7 @@ const Section1 = () => {
                 fontFamily: 'Sacramento',
               }}
             >
-              Irma
+              Singgih
             </h1>
             <p
               className="text-4xl mt-10 text-center"

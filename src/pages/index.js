@@ -47,9 +47,9 @@ export default function Home() {
         <Section6 />
       </LazyLoadComponent>
 
-      <LazyLoadComponent>
+      {/* LazyLoadComponent>
         <Section7 />
-      </LazyLoadComponent>
+      </LazyLoadComponent */}
 
       {/* <LazyLoadComponent>
         <Section8 />

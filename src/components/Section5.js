@@ -8,14 +8,14 @@ import Shape1 from './Shape1';
 const Time = ({ count, unit }) => {
   return (
     <div className="text-center mt-10 text-[#b692ca]">
-      <p className="font-semibold text-2xl text-purple-900">{count}</p>
+      <p className="font-semibold text-2xl text-amber-500">{count}</p>
       <p className="text-sm">{unit}</p>
     </div>
   );
 };
 
 const Section5 = () => {
-  const { dd, hh, mm, ss, isTimeOut } = useInterval('2023-02-05 10:00:00');
+  const { dd, hh, mm, ss, isTimeOut } = useInterval('2023-07-09 10:00:00');
 
   // <iframe
   //   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.732409061164!2d102.00198101475401!3d-1.3368050990250053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9a88f61b89557e6c!2zMcKwMjAnMTIuNSJTIDEwMsKwMDAnMTUuMCJF!5e0!3m2!1sid!2sid!4v1672962876409!5m2!1sid!2sid"
@@ -34,7 +34,7 @@ const Section5 = () => {
   // const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
   
   return (
-    <section className="bg-purple-50 px-6 text-purple-900 relative overflow-hidden" id="peta">
+    <section className="bg-red-800 px-6 text-amber-500 relative overflow-hidden" id="peta">
       <div className="text-center mt-16" data-aos="fade-right">
         <p className="text-sm font-semibold">Gedung Giri Wahana</p>
         <p className="text-sm mt-2">
@@ -69,7 +69,7 @@ const Section5 = () => {
       </div>
 
       <div className="relative z-10" data-aos="fade-down">
-        <h3 className="text-center font-semibold text-2xl text-purple-900 mt-16">
+        <h3 className="text-center font-semibold text-2xl text-amber-500 mt-16">
           9 Juli 2023
         </h3>
       </div>

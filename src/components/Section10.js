@@ -157,11 +157,11 @@ const Section10 = () => {
                 <div className="flex items-center justify-between">
                   <h4 className="font-semibold mb-2 flex-1">{msg.name}</h4>
                   {msg.is_attend ? (
-                    <div className="text-xs px-2 py-1 bg-yellow-200 rounded-full">
+                    <div className="text-xs px-2 py-1 bg-green-500 rounded-full">
                       <span>Hadir</span>
                     </div>
                   ) : (
-                    <div className="text-xs px-2 py-1 bg-red-200 rounded-full">
+                    <div className="text-xs px-2 py-1 bg-red-500 rounded-full">
                       <span>Tidak Hadir</span>
                     </div>
                   )}

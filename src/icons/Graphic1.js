@@ -267,7 +267,7 @@ const Graphic1 = (props) => (
       <path
         data-name="Line 7"
         fill="none"
-        stroke="#b692ca"
+        stroke="#f59e0b"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeMiterlimit={10}

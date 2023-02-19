@@ -115,7 +115,7 @@ export default function Welcome({}) {
                         <div>
                           <span className="text-sm">Kepada:</span>{' '}
                           <Text className="text-2xl px-6">
-                            {router?.query?.nama || 'Tamu Undangan'}
+                            {/* {router?.query?.nama || 'Tamu Undangan'} */}
                             {nama || 'Tamu Undangan'}
                           </Text>
                         </div>

@@ -10,10 +10,10 @@ import {
 const TabBar = () => {
   return (
     <div className="fixed bottom-[16px] left-0 text-xs right-0 bg-[#ebe1f1] text-purple-900 mx-4 p-4 z-40 flex items-center justify-around rounded-lg">
-      {/*a href="#utama" className="flex items-center flex-col">
+      <a href="#utama" className="flex items-center flex-col">
         <HomeModernIcon className="text-[#9375a3] h-6 w-6" />
         <span>Home</span>
-      </a */}
+      </a>
       <a href="#pengantin" className="flex items-center flex-col">
         <UsersIcon className="text-[#9375a3] h-6 w-6" />
         <span>Pengantin</span>

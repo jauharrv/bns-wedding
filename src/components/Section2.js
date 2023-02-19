@@ -4,14 +4,14 @@ import React from 'react';
 const Section2 = () => {
   return (
     <section
-      className="text-center text-[#4f2f56] relative z-10 p-6"
+      className="text-center text-[#f59e0b] relative z-10 p-6"
       style={{
         backgroundImage: `url(/images/bg1.png)`,
         backgroundSize: '220%',
         // backgroundRepeat: 'round',
         backgroundClip: 'border-box',
         backgroundClip: 'border-box',
-        backgroundColor: '#a180ad',
+        backgroundColor: '#991b1b',
       }}
     >
       <div data-aos="zoom-in-up">

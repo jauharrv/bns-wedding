@@ -31,7 +31,7 @@ const Section5 = () => {
 
   const mapSrcRedirect = 'https://www.google.com/maps/place/Gedung+Giri+Wahana/@-7.827763,110.9170799,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a2e3db45758db:0x42f869c9ea7e7cd3!8m2!3d-7.827763!4d110.9192686!16s%2Fg%2F11c20smz25';
 
-  const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
+  // const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
   
   return (
     <section className="bg-purple-50 px-6 text-purple-900 relative overflow-hidden" id="peta">
@@ -94,7 +94,7 @@ const Section5 = () => {
         </div>
       )}
 
-      <div className="px-12 mt-4 flex flex-col justify-center relative z-10" data-aos="fade-up">
+      { /*<div className="px-12 mt-4 flex flex-col justify-center relative z-10" data-aos="fade-up">
         <button
           onClick={() => {
             window?.open(calendarSrc, '_blank');
@@ -103,7 +103,7 @@ const Section5 = () => {
         >
           Tambah ke Kalender
         </button>
-      </div>
+        </div> */}
 
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"

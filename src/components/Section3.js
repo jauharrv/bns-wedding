@@ -145,19 +145,19 @@ const Section3 = () => {
         >
           <path
             d="M1440 0v300c-151.036-6.536-302.071-13.071-413-10-110.929 3.071-181.75 15.75-297 23s-274.929 9.071-404 6c-129.071-3.071-227.536-11.036-326-19V0Z"
-            fill="#f87171"
+            fill="#ef4444"
             fillOpacity={0.4}
             className="transition-all duration-300 ease-in-out delay-150 path-0"
           />
           <path
             d="M1440 0v200c-146.643 12.964-293.286 25.929-412 15-118.714-10.929-209.5-45.75-303-49s-189.714 25.071-311 36c-121.286 10.929-267.643 4.464-414-2V0Z"
-            fill="#ef4444"
+            fill="#dc2626"
             fillOpacity={0.53}
             className="transition-all duration-300 ease-in-out delay-150 path-1"
           />
           <path
             d="M1440 0v100c-112.071 11-224.143 22-355 15S804.5 83 675 79 436.143 92 327 99s-218.071 4-327 1V0Z"
-            fill="#dc2626"
+            fill="#b91c1c"
             className="transition-all duration-300 ease-in-out delay-150 path-2"
           />
         </svg>

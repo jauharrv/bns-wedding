@@ -7,7 +7,7 @@ import Shape1 from './Shape1';
 
 const Time = ({ count, unit }) => {
   return (
-    <div className="text-center mt-10 text-[#b692ca]">
+    <div className="text-center mt-10 text-[#f59e0b]">
       <p className="font-semibold text-2xl text-amber-500">{count}</p>
       <p className="text-sm">{unit}</p>
     </div>
@@ -43,7 +43,7 @@ const Section5 = () => {
       </div>
 
       <div className="px-12 mt-4 flex flex-col justify-center relative z-10" data-aos="fade-down">
-        <div className="border-2 border-[#b692ca] h-64 rounded-xl flex items-center justify-center text-sm overflow-hidden p-3">
+        <div className="border-2 border-[#f59e0b] h-64 rounded-xl flex items-center justify-center text-sm overflow-hidden p-3">
           <div className="rounded-xl w-full h-full">
             <iframe
               src={mapSrc}
@@ -62,7 +62,7 @@ const Section5 = () => {
           onClick={() => {
             window?.open(mapSrcRedirect, '_blank');
           }}
-          className="bg-[#b692ca] text-sm rounded-full px-4 py-2 text-white mx-auto mt-4 hover:scale-95  "
+          className="bg-[#f59e0b] text-sm rounded-full px-4 py-2 text-white mx-auto mt-4 hover:scale-95  "
         >
           Arahkan Maps
         </button>

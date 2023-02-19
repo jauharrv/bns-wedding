@@ -9,7 +9,7 @@ import {
 
 const TabBar = () => {
   return (
-    <div className="fixed bottom-[16px] left-0 text-xs right-0 bg-[#991b1b] text-amber-500 mx-4 p-4 z-40 flex items-center justify-around rounded-lg">
+    <div className="fixed bottom-[16px] left-0 text-xs right-0 bg-[#b91c1c] text-amber-500 mx-4 p-4 z-40 flex items-center justify-around rounded-lg">
       <a href="#utama" className="flex items-center flex-col">
         <HomeModernIcon className="text-[#f59e0b] h-6 w-6" />
         <span>Home</span>

@@ -139,7 +139,7 @@ const Section10 = () => {
       </div>
 
       <div className="text-center mt-12 relative z-10 " data-aos="fade-down">
-        <Text className="text-2xl ">Ucapan Terbaru</Text>
+        <Text className="text-3xl ">Ucapan Terbaru</Text>
       </div>
 
       <div

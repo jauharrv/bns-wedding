@@ -10,7 +10,7 @@ const Section9 = () => {
   return (
     <section className="bg-red-800 px-6 py-8 text-amber-500 relative overflow-hidden z-20 ">
       <div className="text-center" data-aos="fade-down">
-        <Text className="text-2xl ">Informasi</Text>
+        <Text className="text-3xl ">Informasi</Text>
       </div>
       <div className="text-center mt-8 relative z-10">
         <div className="text-xs" data-aos="fade-up">

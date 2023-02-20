@@ -15,8 +15,8 @@ const Section2 = () => {
       }}
     >
       <div data-aos="zoom-in-up">
-        <img src="/images/bismillah.png" alt="Bismillah" className="h-12 mx-auto object-cover" />
-        <p style={{ fontFamily: 'B Davat' }} className="mt-10 text-lg">
+        {/*< img src="/images/bismillah.png" alt="Bismillah" className="h-12 mx-auto object-cover" /> */}
+        <p style={{ fontFamily: 'B Davat' }} className=" mt-4 text-2xl">
           ِبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم
         </p>
         <p style={{ fontFamily: 'B Davat' }} className="mt-4 text-lg">

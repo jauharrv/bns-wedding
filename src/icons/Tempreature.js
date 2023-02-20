@@ -90,7 +90,7 @@ const Tempreature = (props) => (
         </text>
         <text data-name={2} transform="translate(77.843 134.446)" fontSize={15}>
           <tspan x={0} y={0}>
-            {'4'}
+            {'2'}
           </tspan>
         </text>
         <text data-name="\\\\xB0" transform="translate(89.473 133.446)" fontSize={14}>

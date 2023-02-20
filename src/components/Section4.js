@@ -6,7 +6,7 @@ import Text from './Text';
 const Section4 = () => {
   return (
     <section className="relative bg-red-900 -mt-20 px-6 overflow-hidden" id="event">
-      <div className="pt-24 bg-red-800">
+      <div className="pt-24 bg-red-900">
         <div className="flex justify-center" data-aos="zoom-in-up">
           <Graphic1 />
         </div>

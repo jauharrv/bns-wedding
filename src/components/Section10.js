@@ -55,7 +55,7 @@ const Section10 = () => {
 
   return (
     <section
-      className="bg-red-800 px-6 py-8 text-amber-500 relative overflow-hidden z-20 "
+      className="bg-red-900 px-6 py-8 text-amber-500 relative overflow-hidden z-20 "
       id="ucapan"
     >
       <div className="text-center" data-aos="fade-down">
@@ -176,12 +176,12 @@ const Section10 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-0"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
     </section>
   );

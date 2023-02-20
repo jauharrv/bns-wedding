@@ -5,7 +5,7 @@ import Text from './Text';
 
 const Section4 = () => {
   return (
-    <section className="relative bg-red-800 -mt-20 px-6 overflow-hidden" id="event">
+    <section className="relative bg-red-900 -mt-20 px-6 overflow-hidden" id="event">
       <div className="pt-24 bg-red-800">
         <div className="flex justify-center" data-aos="zoom-in-up">
           <Graphic1 />
@@ -49,12 +49,12 @@ const Section4 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-0"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
     </section>
   );

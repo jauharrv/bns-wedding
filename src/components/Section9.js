@@ -8,7 +8,7 @@ import Text from './Text';
 
 const Section9 = () => {
   return (
-    <section className="bg-red-800 px-6 py-8 text-amber-500 relative overflow-hidden z-20 ">
+    <section className="bg-red-900 px-6 py-8 text-amber-500 relative overflow-hidden z-20 ">
       <div className="text-center" data-aos="fade-down">
         <Text className="text-3xl ">Informasi</Text>
       </div>
@@ -45,12 +45,12 @@ const Section9 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-0"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
     </section>
   );

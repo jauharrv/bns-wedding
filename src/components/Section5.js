@@ -34,7 +34,7 @@ const Section5 = () => {
   // const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
   
   return (
-    <section className="bg-red-800 px-6 text-amber-500 relative overflow-hidden" id="peta">
+    <section className="bg-red-900 px-6 text-amber-500 relative overflow-hidden" id="peta">
       <div className="text-center mt-16" data-aos="fade-right">
         <p className="text-sm font-semibold">Gedung Giri Wahana</p>
         <p className="text-sm mt-2">
@@ -108,12 +108,12 @@ const Section5 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-[0]"
         height="300"
-        fill="#dc2626"
+        fill="#b91c1c"
       />
     </section>
   );

@@ -4,7 +4,7 @@ import React from 'react';
 const Thanks = () => {
   return (
     <section
-      className="bg-red-800 px-6 py-8 text-amber-500 relative overflow-hidden z-20"
+      className="bg-red-900 px-6 py-8 text-amber-500 relative overflow-hidden z-20"
       data-aos="fade-down"
     >
       <div className="flex w-full justify-center mt-6 relative z-10 py-16">

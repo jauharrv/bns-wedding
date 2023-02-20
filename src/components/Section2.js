@@ -11,7 +11,7 @@ const Section2 = () => {
         // backgroundRepeat: 'round',
         // backgroundClip: 'border-box',
         // backgroundClip: 'border-box',
-        backgroundColor: '#991b1b',
+        backgroundColor: '#7f1d1d',
       }}
     >
       <div data-aos="zoom-in-up">

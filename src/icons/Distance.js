@@ -17,7 +17,7 @@ const Distance = (props) => (
       d="M10.539 95.895c-9.174-26.053-.166-56.959 20.3-75.508s50.845-24.66 77.5-17.437c33.068 8.96 60.607 41.182 57.1 75.26-2.052 19.934-14.2 38.131-30.668 49.543-38.664 26.799-107.074 16.869-124.232-31.858z"
       fill="#fde68a"
     />
-    <g data-name="Group 45286" fill="#fcd34d">
+    <g data-name="Group 45286" fill="#fbbf24">
       <path
         data-name="Path 32708"
         d="M36.322 39.66a9.99 9.99 0 1 1-9.99-9.989 9.99 9.99 0 0 1 9.99 9.989z"
@@ -27,7 +27,7 @@ const Distance = (props) => (
         d="M51.832 75.585 39.249 59.81a14.911 14.911 0 0 0-2.543-3.419 14.446 14.446 0 0 0-22.763 2.891L.937 75.582a4.292 4.292 0 0 0 .678 6.032l.709.564a4.293 4.293 0 0 0 6.033-.679l3.307-4.146v45.084a6.249 6.249 0 0 0 6.248 6.248h.294a6.248 6.248 0 0 0 6.248-6.248V90.084h4.059v32.353a6.249 6.249 0 0 0 6.248 6.248 6.248 6.248 0 0 0 6.248-6.248v-45.2l3.4 4.264a4.293 4.293 0 0 0 6.034.679l.708-.564a4.292 4.292 0 0 0 .681-6.031z"
       />
     </g>
-    <g data-name="Group 45287" fill="#fcd34d">
+    <g data-name="Group 45287" fill="#fbbf24">
       <path
         data-name="Path 32710"
         d="M156.247 39.66a9.99 9.99 0 1 1-9.989-9.989 9.99 9.99 0 0 1 9.989 9.989z"
@@ -40,7 +40,7 @@ const Distance = (props) => (
     <g
       data-name="Group 45288"
       fill="none"
-      stroke="#7b6389"
+      stroke="#f59e0b"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeMiterlimit={10}
@@ -50,7 +50,7 @@ const Distance = (props) => (
       <path data-name="Path 32712" d="m104.781 73.348 8.387 5.618-8.387 5.618" />
       <path data-name="Path 32713" d="m70.021 73.348-8.389 5.618 8.389 5.618" />
     </g>
-    <g data-name="Group 45272" fill="#7b6389" fontFamily="SegoeUIBlack, Segoe UI">
+    <g data-name="Group 45272" fill="#f59e0b" fontFamily="SegoeUIBlack, Segoe UI">
       <text data-name={1} transform="translate(74.842 66.492)" fontSize={12}>
         <tspan x={0} y={0}>
           {'1'}

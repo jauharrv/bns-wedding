@@ -30,12 +30,12 @@ const Tempreature = (props) => (
       <path
         data-name="Path 32716"
         d="M90.727 91.828a11.186 11.186 0 1 1-11.186-11.184 11.185 11.185 0 0 1 11.186 11.184z"
-        fill="#fcd34d"
+        fill="#fbbf24"
       />
       <path
         data-name="Line 16"
         fill="none"
-        stroke="#fcd34d"
+        stroke="#fbbf24"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeMiterlimit={10}

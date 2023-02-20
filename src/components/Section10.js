@@ -59,7 +59,7 @@ const Section10 = () => {
       id="ucapan"
     >
       <div className="text-center" data-aos="fade-down">
-        <Text className="text-2xl ">Kartu Ucapan</Text>
+        <Text className="text-3xl ">Kartu Ucapan</Text>
       </div>
       <div className="text-center mt-8 relative z-10" data-aos="fade-up">
         <div className="bg-white rounded-lg p-4">

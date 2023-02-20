@@ -125,16 +125,16 @@ const Section3 = () => {
 
         <img src="/images/flower.png" alt="" className="absolute right-0 bottom-0 h-40 z-10" />
 
-        {/* <Shape1
+        <Shape1
           className="absolute top-[108px] right-[-105px] rotate-45 -z-10"
           height="300"
-          fill="#B692CA"
+          fill="#dc2626"
         />
         <Shape1
           className="absolute bottom-[109px] left-[-105px] rotate-180 -z-10"
           height="300"
-          fill="#B692CA"
-        /> */}
+          fill="#dc2626"
+        />
       </div>
 
       <div className="relative">

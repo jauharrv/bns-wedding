@@ -45,12 +45,12 @@ const Section9 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#b91c1c"
+        fill="#991b1b"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-0"
         height="300"
-        fill="#b91c1c"
+        fill="#991b1b"
       />
     </section>
   );

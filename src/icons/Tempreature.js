@@ -15,7 +15,7 @@ const Tempreature = (props) => (
       <path
         data-name="Path 32691"
         d="M7.05 37.275C19.698 12.721 48.357-1.941 75.894.208s52.834 20.051 65.879 44.4c16.182 30.2 11.652 72.341-15.537 93.181-15.9 12.19-37.477 15.848-57.08 11.7-46.032-9.73-85.764-66.292-62.106-112.214z"
-        fill="#fde68a"
+        fill="#fcd34d"
       />
       <path
         data-name="Path 32714"
@@ -30,12 +30,12 @@ const Tempreature = (props) => (
       <path
         data-name="Path 32716"
         d="M90.727 91.828a11.186 11.186 0 1 1-11.186-11.184 11.185 11.185 0 0 1 11.186 11.184z"
-        fill="#fbbf24"
+        fill="#f59e0b"
       />
       <path
         data-name="Line 16"
         fill="none"
-        stroke="#fbbf24"
+        stroke="#f59e0b"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeMiterlimit={10}

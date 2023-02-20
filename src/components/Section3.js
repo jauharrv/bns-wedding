@@ -128,12 +128,12 @@ const Section3 = () => {
         <Shape1
           className="absolute top-[108px] right-[-105px] rotate-45 -z-10"
           height="300"
-          fill="#b91c1c"
+          fill="#991b1b"
         />
         <Shape1
           className="absolute bottom-[109px] left-[-105px] rotate-180 -z-10"
           height="300"
-          fill="#b91c1c"
+          fill="#991b1b"
         />
       </div>
 
@@ -157,7 +157,7 @@ const Section3 = () => {
           />
           <path
             d="M1440 0v100c-112.071 11-224.143 22-355 15S804.5 83 675 79 436.143 92 327 99s-218.071 4-327 1V0Z"
-            fill="#b91b1b"
+            fill="#991b1b"
             className="transition-all duration-300 ease-in-out delay-150 path-2"
           />
         </svg>

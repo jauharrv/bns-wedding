@@ -121,7 +121,7 @@ const Section10 = () => {
                 disabled={disabled || submitting}
                 type="submit"
                 className={
-                  'bg-[#b692ca] rounded-full text-sm px-4 py-2 text-white mx-auto mt-4 hover:scale-95 duration-100 ' +
+                  'bg-[#f59e0b] rounded-full text-sm px-4 py-2 text-white mx-auto mt-4 hover:scale-95 duration-100 ' +
                   (disabled ? 'grayscale opacity-90' : '')
                 }
               >

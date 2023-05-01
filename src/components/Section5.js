@@ -7,8 +7,8 @@ import Shape1 from './Shape1';
 
 const Time = ({ count, unit }) => {
   return (
-    <div className="text-center mt-10 text-[#f59e0b]">
-      <p className="font-semibold text-2xl text-amber-500">{count}</p>
+    <div className="text-center mt-10 text-[#a16207]">
+      <p className="font-semibold text-2xl text-yellow-700">{count}</p>
       <p className="text-sm">{unit}</p>
     </div>
   );
@@ -34,7 +34,7 @@ const Section5 = () => {
   // const calendarSrc = `https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNhcGZmZHRjNHFrYnRsbDZ0cjdwNW1hb2MgZXJsYW5nZ2FhbmdnYTA5MkBt&tmsrc=erlanggaangga092%40gmail.com`;
   
   return (
-    <section className="bg-red-900 px-6 text-amber-500 relative overflow-hidden" id="peta">
+    <section className="bg-orange-50 px-6 text-yellow-700 relative overflow-hidden" id="peta">
       <div className="text-center mt-16" data-aos="fade-right">
         <p className="text-sm font-semibold">Gedung Giri Wahana</p>
         <p className="text-sm mt-2">
@@ -43,7 +43,7 @@ const Section5 = () => {
       </div>
 
       <div className="px-12 mt-4 flex flex-col justify-center relative z-10" data-aos="fade-down">
-        <div className="border-2 border-[#f59e0b] h-64 rounded-xl flex items-center justify-center text-sm overflow-hidden p-3">
+        <div className="border-2 border-[#a16207] h-64 rounded-xl flex items-center justify-center text-sm overflow-hidden p-3">
           <div className="rounded-xl w-full h-full">
             <iframe
               src={mapSrc}
@@ -62,14 +62,14 @@ const Section5 = () => {
           onClick={() => {
             window?.open(mapSrcRedirect, '_blank');
           }}
-          className="bg-[#f59e0b] text-sm rounded-full px-4 py-2 text-white mx-auto mt-4 hover:scale-95  "
+          className="bg-[#fff7ed] text-sm rounded-full px-4 py-2 text-white mx-auto mt-4 hover:scale-95  "
         >
           Arahkan Maps
         </button>
       </div>
 
       <div className="relative z-10" data-aos="fade-down">
-        <h3 className="text-center font-semibold text-2xl text-amber-500 mt-16">
+        <h3 className="text-center font-semibold text-2xl text-yellow-700 mt-16">
           9 Juli 2023
         </h3>
       </div>
@@ -108,12 +108,12 @@ const Section5 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#991b1b"
+        fill="#a16207"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-[0]"
         height="300"
-        fill="#991b1b"
+        fill="#a16207"
       />
     </section>
   );

@@ -55,7 +55,7 @@ const Section10 = () => {
 
   return (
     <section
-      className="bg-red-900 px-6 py-8 text-amber-500 relative overflow-hidden z-20 "
+      className="bg-orange-50 px-6 py-8 text-yellow-700 relative overflow-hidden z-20 "
       id="ucapan"
     >
       <div className="text-center" data-aos="fade-down">
@@ -72,7 +72,7 @@ const Section10 = () => {
                 type="text"
                 name="name"
                 id="name"
-                className="text-xs rounded md appearance-none border border-[#f59e0b] mt-2"
+                className="text-xs rounded md appearance-none border border-[#a16207] mt-2"
               />
             </div>
             <div className="flex flex-col text-left text-xs mt-4">
@@ -82,7 +82,7 @@ const Section10 = () => {
                 onChange={(e) => setMessage(e.target.value)}
                 name="message"
                 id="message"
-                className="rounded text-xs md appearance-none border border-[#f59e0b] mt-2"
+                className="rounded text-xs md appearance-none border border-[#a16207] mt-2"
               />
             </div>
 
@@ -98,7 +98,7 @@ const Section10 = () => {
                     type="radio"
                     name="is_attend"
                     id="is_attend_1"
-                    className="rounded md appearance-none border border-[#f59e0b] "
+                    className="rounded md appearance-none border border-[#a16207] "
                   />
                   <label htmlFor="is_attend_1">Hadir</label>
                 </div>
@@ -109,7 +109,7 @@ const Section10 = () => {
                     type="radio"
                     name="is_attend"
                     id="is_attend_2"
-                    className="rounded md appearance-none border border-[#f59e0b]"
+                    className="rounded md appearance-none border border-[#a16207]"
                   />
                   <label htmlFor="is_attend_2">Tidak Hadir</label>
                 </div>
@@ -121,7 +121,7 @@ const Section10 = () => {
                 disabled={disabled || submitting}
                 type="submit"
                 className={
-                  'bg-[#f59e0b] rounded-full text-sm px-4 py-2 text-white mx-auto mt-4 hover:scale-95 duration-100 ' +
+                  'bg-[#fff7ed] rounded-full text-sm px-4 py-2 text-white mx-auto mt-4 hover:scale-95 duration-100 ' +
                   (disabled ? 'grayscale opacity-90' : '')
                 }
               >
@@ -176,12 +176,12 @@ const Section10 = () => {
       <Shape1
         className="absolute top-[108px] right-[-105px] rotate-45 z-[0]"
         height="300"
-        fill="#991b1b"
+        fill="#a16207"
       />
       <Shape1
         className="absolute bottom-[109px] left-[-105px] rotate-180 z-0"
         height="300"
-        fill="#991b1b"
+        fill="#a16207"
       />
     </section>
   );

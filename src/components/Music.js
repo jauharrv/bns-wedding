@@ -7,13 +7,13 @@ const Music = () => {
   return (
     <div className="sticky bottom-[100px] right-0 z-40 p-4 float-right">
       <button
-        className="rounded-full h-8 w-8 bg-red-800 flex items-center justify-center"
+        className="rounded-full h-8 w-8 bg-orange-50 flex items-center justify-center"
         onClick={togglePlay}
       >
         {!playing ? (
-          <SpeakerXMarkIcon className="h-4 w-4 text-amber-500" />
+          <SpeakerXMarkIcon className="h-4 w-4 text-yellow-700" />
         ) : (
-          <SpeakerWaveIcon className="h-4 w-4 text-amber-500" />
+          <SpeakerWaveIcon className="h-4 w-4 text-yellow-700" />
         )}
       </button>
     </div>

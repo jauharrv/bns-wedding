@@ -43,7 +43,7 @@ const Section3 = () => {
         alt=""
         className="absolute left-0 top-0 h-40 rotate-180 z-[2]"
       />
-      <div className="text-center text-amber-500 overflow-hidden z-[1] py-14 pb-36 px-6 bg-[#7f1d1d] relative">
+      <div className="text-center text-yellow-700 overflow-hidden z-[1] py-14 pb-36 px-6 bg-[#fff7ed] relative">
         <div className="mt-8" data-aos="zoom-in-up">
           <h3
             className="text-3xl"
@@ -128,12 +128,12 @@ const Section3 = () => {
         <Shape1
           className="absolute top-[108px] right-[-105px] rotate-45 -z-10"
           height="300"
-          fill="#991b1b"
+          fill="#a16207"
         />
         <Shape1
           className="absolute bottom-[109px] left-[-105px] rotate-180 -z-10"
           height="300"
-          fill="#991b1b"
+          fill="#a16207"
         />
       </div>
 
